@@ -1,0 +1,11 @@
+body {
+    background: gray;
+    display: flex;
+    justify-content: center;
+}
+.early-game {
+    text-align: center;
+}
+dl {
+    list-style-type: 'a';
+}
