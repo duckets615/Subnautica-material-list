@@ -9,3 +9,8 @@ body {
 dl {
     list-style-type: 'a';
 }
+
+img {
+    width: 40px;
+    height: 40px;
+}
